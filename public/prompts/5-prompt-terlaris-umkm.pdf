@@ -13,10 +13,9 @@ PROMPT #1: Caption Instagram yang Menjual
 
 Copy prompt ini ke ChatGPT:
 
-"Kamu adalah seorang copywriter profesional yang ahli 
-membuat caption Instagram untuk bisnis UMKM Indonesia.
+Kamu adalah seorang copywriter profesional yang ahli membuat caption Instagram untuk bisnis UMKM Indonesia dengan gaya bahasa yang persuasif dan manusiawi.
 
-Buatkan 5 variasi caption Instagram untuk produk berikut:
+Buatkan 5 variasi caption Instagram dengan sudut pandang berbeda (storytelling, edukasi, hard-sell, testimoni, dan interaktif) untuk produk berikut:
 - Nama produk: [ISI NAMA PRODUK ANDA]
 - Jenis usaha: [ISI JENIS USAHA]
 - Target pembeli: [ISI TARGET, misal: ibu rumah tangga 25-40 tahun]
@@ -24,14 +23,14 @@ Buatkan 5 variasi caption Instagram untuk produk berikut:
 - Promo yang sedang jalan: [ISI PROMO, atau tulis 'tidak ada']
 
 Setiap caption harus:
-1. Dimulai dengan hook yang bikin berhenti scroll
-2. Maksimal 150 kata
-3. Pakai bahasa santai tapi profesional
-4. Sertakan 1 emoji yang relevan per kalimat
-5. Akhiri dengan CTA (ajakan untuk beli/chat/klik link)
-6. Sertakan 5 hashtag relevan di akhir
+1. Dimulai dengan hook yang memancing rasa penasaran atau empati audiens.
+2. Maksimal 150 kata dan hindari penggunaan kata-kata kaku khas robot.
+3. Pakai bahasa santai, akrab, namun tetap sopan.
+4. Sertakan 1 emoji yang relevan per kalimat agar visual menarik.
+5. Akhiri dengan CTA (ajakan untuk beli/chat/klik link) yang jelas.
+6. Sertakan 5 hashtag relevan di akhir.
 
-Format output: Nomori 1-5, pisahkan dengan garis."
+Format output: Nomori 1-5, berikan judul kecil untuk jenis angle-nya, dan pisahkan antar variasi dengan garis horizontal.
 
 💡 Tips: Ganti teks dalam [KURUNG] dengan info bisnis 
 Anda sendiri. Semakin detail, semakin bagus hasilnya!
@@ -41,27 +40,26 @@ PROMPT #2: Deskripsi Produk untuk Marketplace
 ───────────────────────────────────────────────
 
 Copy prompt ini ke ChatGPT:
+Bertindaklah sebagai ahli Copywriting E-commerce profesional. Buatkan deskripsi produk yang persuasif dan SEO-friendly untuk Shopee/Tokopedia berdasarkan detail berikut:
 
-"Buatkan deskripsi produk yang menarik untuk dijual di 
-Shopee/Tokopedia dengan detail berikut:
 - Nama produk: [ISI]
 - Kategori: [ISI]
 - Bahan/material: [ISI]
 - Ukuran/varian: [ISI]
 - Harga: [ISI]
 - Keunggulan vs kompetitor: [ISI]
+- Target Audiens: [ISI]
 
 Struktur deskripsi:
-1. Headline menarik (1 baris)
-2. Paragraf pembuka yang bikin penasaran (2-3 kalimat)
-3. Detail spesifikasi dalam format bullet point
-4. Keunggulan produk (3-5 poin)
-5. Cara pemakaian/perawatan (jika relevan)
-6. Garansi/kebijakan retur
-7. CTA: ajakan untuk langsung checkout
+1. Headline menarik yang mengandung kata kunci utama (1 baris).
+2. Paragraf pembuka yang menyentuh 'pain point' pelanggan (2-3 kalimat).
+3. Detail spesifikasi dalam format bullet point yang rapi.
+4. Keunggulan produk dibandingkan merk lain (3-5 poin).
+5. Cara pemakaian/perawatan agar produk awet.
+6. Informasi Garansi/kebijakan retur untuk meningkatkan trust.
+7. CTA (Call to Action) yang mendesak untuk segera checkout.
 
-Gunakan bahasa Indonesia yang natural, hindari kata-kata 
-berlebihan. Tambahkan emoji yang relevan."
+Gunakan bahasa Indonesia yang natural, ramah, dan persuasif namun tidak berlebihan. Gunakan emoji yang relevan secara proporsional.
 
 💡 Tips: Hasil ini bisa langsung di-paste ke kolom 
 deskripsi produk di Shopee atau Tokopedia!
@@ -72,25 +70,24 @@ PROMPT #3: Proposal Bisnis Singkat
 
 Copy prompt ini ke ChatGPT:
 
-"Buatkan proposal bisnis singkat (1-2 halaman) untuk:
+" Bertindaklah sebagai konsultan bisnis profesional dan ahli strategi startup. Buatkan proposal bisnis yang persuasif dan profesional (1-2 halaman) untuk:
+
 - Nama usaha: [ISI]
 - Jenis usaha: [ISI]
 - Lokasi: [ISI]
 - Modal yang dibutuhkan: [ISI]
 - Target pasar: [ISI]
 
-Struktur proposal:
-1. Ringkasan Eksekutif (1 paragraf)
-2. Latar Belakang & Peluang Pasar
-3. Produk/Jasa yang Ditawarkan
-4. Target Pasar & Strategi Pemasaran
-5. Proyeksi Keuangan Sederhana (tabel 6 bulan)
-6. Tim & Keunggulan Kompetitif
-7. Penutup & Ajakan Kerjasama
+Struktur proposal harus mencakup:
+1. Ringkasan Eksekutif: 1 paragraf yang menarik perhatian investor.
+2. Latar Belakang & Peluang Pasar: Analisis tren terkini di Indonesia.
+3. Produk/Jasa: Deskripsi detail nilai unik produk.
+4. Target Pasar & Strategi Pemasaran: Rencana akuisisi pelanggan yang konkret.
+5. Proyeksi Keuangan Sederhana: Buat dalam format tabel untuk 6 bulan pertama.
+6. Tim & Keunggulan Kompetitif: Mengapa bisnis ini akan menang dibanding kompetitor.
+7. Penutup & Ajakan Kerjasama: Call to action yang kuat.
 
-Gunakan bahasa formal tapi mudah dipahami. 
-Tambahkan angka dan data yang masuk akal untuk 
-industri ini di Indonesia."
+Gunakan bahasa formal, profesional, namun tetap mudah dipahami. Pastikan angka, estimasi biaya, dan data pasar yang digunakan masuk akal dan disesuaikan dengan kondisi ekonomi di Indonesia saat ini.
 
 💡 Tips: Cocok untuk mengajukan pinjaman ke bank, 
 pitching ke investor, atau kerjasama dengan supplier.
@@ -101,28 +98,7 @@ PROMPT #4: Balasan Chat Customer Service
 
 Copy prompt ini ke ChatGPT:
 
-"Kamu adalah customer service profesional untuk toko 
-online [ISI NAMA TOKO]. Kami menjual [ISI JENIS PRODUK].
-
-Buatkan 10 template balasan chat WhatsApp untuk 
-situasi berikut:
-
-1. Sapaan pertama ke customer baru
-2. Menjawab pertanyaan harga
-3. Menjawab pertanyaan stok
-4. Menjawab pertanyaan ongkir
-5. Follow-up customer yang belum bayar
-6. Konfirmasi pesanan masuk
-7. Info pengiriman + nomor resi
-8. Menangani komplain dengan sopan
-9. Meminta testimoni setelah barang sampai
-10. Promo/broadcast ke customer lama
-
-Setiap template:
-- Maksimal 3 kalimat
-- Ramah tapi profesional
-- Pakai emoji secukupnya (1-2 per pesan)
-- Sertakan placeholder [NAMA] untuk personalisasi"
+" Kamu adalah customer service profesional untuk toko online [NAMA TOKO] yang menjual [JENIS PRODUK]. Target pelanggan kita adalah [TARGET AUDIENS]. Buatkan 10 template balasan WhatsApp yang ramah, persuasif, namun tetap profesional untuk situasi berikut: (1) Sapaan customer baru, (2) Tanya harga, (3) Tanya stok, (4) Tanya ongkir, (5) Follow-up pembayaran (lembut), (6) Konfirmasi pesanan, (7) Info resi, (8) Komplain barang rusak/salah, (9) Permintaan testimoni, (10) Promo khusus pelanggan lama. Aturan setiap template: Maksimal 3 kalimat, gunakan panggilan '[KAK/SIS/BRO]', sertakan placeholder [NAMA], gunakan 1-2 emoji yang relevan, dan pastikan ada ajakan bertindak (CTA) yang jelas.
 
 💡 Tips: Simpan di Quick Reply WhatsApp Business 
 supaya bisa balas customer dalam hitungan detik!
@@ -133,29 +109,22 @@ PROMPT #5: Ide Konten 30 Hari
 
 Copy prompt ini ke ChatGPT:
 
-"Buatkan content calendar (kalender konten) 30 hari 
-untuk akun Instagram bisnis dengan detail:
+" Bertindaklah sebagai Social Media Strategist ahli. Buatkan content calendar 30 hari yang strategis untuk akun Instagram bisnis dengan detail berikut:
+
 - Jenis usaha: [ISI]
 - Produk utama: [ISI]
 - Target audiens: [ISI]
-- Tone of voice: [ISI, misal: santai, profesional, lucu]
+- Tone of voice: [ISI]
 
-Untuk setiap hari, berikan:
-1. Jenis konten (Reels/Carousel/Single Post/Story)
-2. Topik/judul konten
-3. Hook pembuka (kalimat pertama)
-4. Isi singkat (2-3 poin utama)
-5. CTA (ajakan)
-6. Hashtag (3-5 per post)
+Distribusi Konten:
+- 40% Edukasi (Tips, Tutorial)
+- 30% Produk (Promo, Testimoni)
+- 20% Hiburan (BTS, Story)
+- 10% Interaksi (Polling, Q&A)
 
-Bagi ke dalam kategori:
-- 40% konten edukasi (tips, tutorial)
-- 30% konten produk (promo, testimoni)
-- 20% konten hiburan (behind the scene, story)
-- 10% konten interaksi (polling, Q&A)
+Pastikan urutan konten variatif setiap harinya. Sajikan dalam format TABEL dengan kolom: Hari | Jenis Konten | Topik & Judul | Hook Pembuka | Isi Singkat (Poin Utama) | CTA | Hashtag.
 
-Format: Tabel dengan kolom Hari | Jenis | Topik | Hook"
-
+Setiap konten harus memiliki Hook yang menarik perhatian dan CTA yang mendorong konversi atau engagement sesuai jenis kontennya.
 💡 Tips: Print kalender ini dan tempel di meja kerja. 
 Anda tidak akan pernah kehabisan ide konten lagi!
 
